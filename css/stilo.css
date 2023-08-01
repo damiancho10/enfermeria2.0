@@ -5,7 +5,11 @@
   }
   
   body {
-    background-image: url('fondo.jpg');
+    background-image: url(..//assets/img/fondo.jpg);
+    background-repeat: fit-content;
+   
+    
+
   }
   
   .form-register {
